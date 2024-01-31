@@ -1,0 +1,14 @@
+mat-card {
+    min-width: 350px !important;
+}
+
+.mat-icon {
+    font-size: 80px;
+    height: 80px ;
+    width: 80px;
+}
+
+.min-card-option {
+    min-width: 200px !important;
+    cursor: pointer;
+}
